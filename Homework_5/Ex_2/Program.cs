@@ -48,11 +48,11 @@ sum += array[i];
 return sum;
 }
 Console.WriteLine("Введите нижню границу чисел массива");
-int ReadFor = Convert.ToInt32(Console.ReadLine());
+int ReadFrom = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите верхнюю границу чисел массива");
 int ReadTo = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите длину массива");
-int[] array = InitArray(Convert.ToInt32(Console.ReadLine()), ReadFor, ReadTo);
+int[] array = InitArray(Convert.ToInt32(Console.ReadLine()), ReadFrom, ReadTo);
 PrintArray(array);
 Console.WriteLine($"Количество четных чисел массива = {GetNotEvenNumbersSum(array)}");
