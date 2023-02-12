@@ -8,27 +8,6 @@
 9 5 3 2
 8 4 4 2 */
 
-int GetNumber(string message)
-{
-    int result = 0;
-
-    while (true)
-    {
-        Console.WriteLine(message);
-
-        if (int.TryParse(Console.ReadLine(), out result) && result > 0)
-        {
-            break;
-        }
-        else
-        {
-            Console.WriteLine("Ввели не корректное число. Повторите ввод.");
-        }
-    }
-
-    return result;
-}
-
 int[,] InitMatrix(int rows, int columns)
 {
     int[,] matrix = new int[rows, columns];
