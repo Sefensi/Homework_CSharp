@@ -6,15 +6,18 @@
 
 9012 -> 12*/
 
-int[] massive;
-Console.WriteLine("Введите длину массива");
-int dlina = Convert.ToInt32(Console.ReadLine());
-int create_massive(string number)
+int number_sum(string number)
 {
-        for (int i = 0; i < dlina; i++)
+    int sum = 0;
+    int bbb = 0;
+    for (int i = 0; i < number.Length; i++)
     {
-        Console.Write($" {array[i]} ");
+        int.TryParse(Convert.ToString(number[i]), out bbb);
+        sum = sum + bbb;
+        Console.WriteLine(bbb);
     }
-    return Array[i];
+    return sum;
 }
-Console.WriteLine(create_massive(1, 2, 3, 4, 5, 6, 7, 8));
+Console.WriteLine("Введите число");
+string xxx = Console.ReadLine();
+Console.WriteLine($"Сумма цифр числа равна {number_sum(xxx)}");

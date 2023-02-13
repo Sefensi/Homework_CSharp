@@ -1,0 +1,15 @@
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.csproj.AssemblyReference.cache
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.AssemblyInfoInputs.cache
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.AssemblyInfo.cs
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.csproj.CoreCompileInputs.cache
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\bin\Debug\net7.0\Ex_4.exe
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\bin\Debug\net7.0\Ex_4.deps.json
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\bin\Debug\net7.0\Ex_4.runtimeconfig.json
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\bin\Debug\net7.0\Ex_4.dll
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\bin\Debug\net7.0\Ex_4.pdb
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.dll
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\refint\Ex_4.dll
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.pdb
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\Ex_4.genruntimeconfig.cache
+C:\Users\Sefensi\Desktop\Homework\Homework_8\Ex_4\obj\Debug\net7.0\ref\Ex_4.dll
